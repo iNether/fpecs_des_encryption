@@ -1,0 +1,2 @@
+D:\Windows\Documents\_FFEKS\_3_TIS\komakha\fpecs_des_gui\fpecs_des_gui\x64\Debug\fpecsdesgui.MyForm.resources
+D:\Windows\Documents\_FFEKS\_3_TIS\komakha\fpecs_des_gui\fpecs_des_gui\x64\Debug\fpecs_des_gui.vcxproj.GenerateResource.cache

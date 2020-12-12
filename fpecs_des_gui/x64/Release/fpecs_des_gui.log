@@ -1,0 +1,8 @@
+﻿  fileencryption.cpp
+D:\Windows\Documents\_FFEKS\_3_TIS\komakha\fpecs_des_gui\fpecs_des_gui\fileencryption.cpp(101,28): warning C4244: 'return': conversion from '_Rep' to 'int', possible loss of data
+          with
+          [
+              _Rep=__int64
+          ]
+  des.obj : MSIL module encountered; incremental linking is disabled for MSIL; performing full link
+  fpecs_des_gui.vcxproj -> D:\Windows\Documents\_FFEKS\_3_TIS\komakha\fpecs_des_gui\x64\Release\fpecs_des_gui.exe
